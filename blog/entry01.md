@@ -1,4 +1,4 @@
-# Entry 1: Deciding my topic 
+# Entry 1: Deciding My Topic(Graphic Design) 
  10/11/25
 
 ## The Topic I chose and why 
