@@ -2,7 +2,7 @@
  10/11/25
 
 ## The Topic I chose and why 
-The topic I decided for my project is graphic design and how it can combine creativity with technology. I chose this topic because i'm interested how on how designers use color,shapes, and images to make people feel emotions or understamd information better. Graphic design is everywhere,in logos,advertisements,websites and even in schools, and i want to understand how it can influence the way people think and learn. I also really like to use my creativity to make things that look appealing and meaningful,choosing this as a topic feels the most like me as i can express myself from making the website itself but also still learning from researching. I was originally interested in psychology and education because i wanted to learn how people's mind works and how they are able to learn new information. Then i realized graphic design connects to both topic, it can influence emotions(psychology) and make learning easier or more engaging (education). I want to explore more on how graphic design impacts the way we learn,remember and reactto visuals. B
+The topic I decided for my project is graphic design and how it can combine creativity with technology. I chose this topic because i'm interested how on how designers use color,shapes, and images to make people feel emotions or understamd information better. Graphic design is everywhere,in logos,advertisements,websites and even in schools, and i want to understand how it can influence the way people think and learn. I also really like to use my creativity to make things that look appealing and meaningful,choosing this as a topic feels the most like me as i can express myself from making the website itself but also still learning from researching. I was originally interested in psychology and education because i wanted to learn how people's mind works and how they are able to learn new information. Then i realized graphic design connects to both topic, it can influence emotions(psychology) and make learning easier or more engaging (education). I want to explore more on how graphic design impacts the way we learn,remember and reactto visuals. 
 
 ## Backup Ideas
 My backup ideas were to focus on psychology and education. If i chose psychology, i would have reasearch on how colors,shapes,and fonts affect people's emotions and decision making. A example is why some colors have a positive or negative reaction from people. if i chose education, i would have explored how visuals and design can help studetns understand harder information faster. Even though both ropics are interesting, i decided to focus on graphic design because it connects creativity,technology, and human behavior and its something i could see myself focusing on/actually doing in the future.
@@ -18,7 +18,18 @@ The main articles i used are
 
 ## Engineering Design Process 
 At the moment, i am in the first stage of the engineering design process, defining the problem.
-the problem i want to explore is how graphic design helps people communicate ideas clearly and emotionally using color and layout. i also want to undertand how technology like AI and digital design aoftware has changed the design world,making it easier to create and share art globally. Next, i will continue to research specific design tools like 
+the problem i want to explore is how graphic design helps people communicate ideas clearly and emotionally using color and layout. i also want to undertand how technology like AI and digital design aoftware has changed the design world,making it easier to create and share art globally. Next, i will continue to research specific design tools like adobe illustrator and canva, to see how they are used ti create professional designs. I also plan to explore how psychology and design work together to influence how people reacr to images and text.
+
+## Skils
+<ul>
+ <li> Rsearch: i learn how to research using keywords like "color theory in design" and "graphic design in education." I also learned for turstworthy sites from design organizations or universities.</li>
+ <li> Understanding Infomation: some information i didn't really understand so i reread and compare with a article i did understand so i can understand harder and more complex ones. </li>
+</ul>
+
+## Next Steps
+Nex, i will continue researching design software and real examples of how some compaines use graphic design to communicate messages effectively. I also would want t learn more about graphic design and how it plays a role in our everyday life and how it affects a person emotions. Then making a presentation shwoing how design,technology, and creativity work togetherto inspire people and share ideas.
+
+
 [Next](entry02.md)
 
 [Home](../README.md)
