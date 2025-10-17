@@ -6,8 +6,12 @@ Topic: **X**
 * Text
 
 ## Part A: existing technology
-* Tech
-  * Detail
+* App 1:PicMonkey 
+  * its a designing app and also a website
+  * its simliar to canva
+  * helps their users but having video tutorial on editing and have a page dedicated to graphic design
+  * easy to use
+  * also has many features from photo editing to graphic designing 
   * [image text](image URL)
 
 ## Part B: possible future technology
