@@ -23,13 +23,13 @@ Topic: **Graphic Design**
   *  [GIMP logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWtsL0ydkwYD7ehrJ9rGCvED7QnmHQbshFSA&s)
   *  [website link](https://www.gimp.org/)
 * App 3: Visme
- * online design and presentation tool
- * helps users create reports,social media graphics and animation etc
- * fully cloud based
- * offers templates,drag and drop design tools and collaboation features for teams.
- * works on any device with a web browser
- * [Visme logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS27EfwOaJQnE794rtIq0XNQ43d8PjMDsq42w&s)
- * [website link](https://www.visme.co/)       
+  * online design and presentation tool
+  * helps users create reports,social media graphics and animation etc
+  * fully cloud based
+  * offers templates,drag and drop design tools and collaboation features for teams.
+  * works on any device with a web browser
+  * [Visme logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS27EfwOaJQnE794rtIq0XNQ43d8PjMDsq42w&s)
+  * [website link](https://www.visme.co/)       
    
  
 
