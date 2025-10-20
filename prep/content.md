@@ -1,5 +1,5 @@
 # Content
-Topic: **X**
+Topic: **Graphic Design**
 
 ## Overview/Introduction/Context
 * Text
@@ -28,8 +28,8 @@ Topic: **X**
  * fully cloud based
  * offers templates,drag and drop design tools and collaboation features for teams.
  * works on any device with a web browser
- *[Visme logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS27EfwOaJQnE794rtIq0XNQ43d8PjMDsq42w&s)
- *[website link](https://www.visme.co/)       
+ * [Visme logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS27EfwOaJQnE794rtIq0XNQ43d8PjMDsq42w&s)
+ * [website link](https://www.visme.co/)       
    
  
 
