@@ -12,7 +12,7 @@ Topic: **X**
   * helps their users but having video tutorial on editing and have a page dedicated to graphic design
   * easy to use
   * also has many features from photo editing to graphic designing 
-  * [image text](image URL)
+  * [PicMonkey logo ]("https://github.com/user-attachments/assets/752dc671-0cc0-4f04-b1f4-fcc652de56fb")
 
 ## Part B: possible future technology
 * Idea
