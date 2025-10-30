@@ -31,7 +31,27 @@ Topic: **Graphic Design**
   * [Visme logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS27EfwOaJQnE794rtIq0XNQ43d8PjMDsq42w&s)
   * [website link](https://www.visme.co/)       
    
- 
+ Hardeware/device
+* Device 1: Sound tablet
+  *  a digital drawing tablet that makes vibration or sound feedback
+  *  mimics the feeling on paper
+  *  helps artist get more of a traditional feeling
+  * make it easer for a artist to control stoks and pressure
+  * [image]()
+* Device 2: Flatbed scanner
+  * A glass surface used to scan and digitize anything on paper
+  * preserves details and textures of the original artwork
+  * used to create digital copies of printed designs
+  * helps designers combine traditional and digital tecniques
+  * [image]()
+* Device 3: External SSD
+  * Portable storage device
+  * stores large designs files
+  * expand storage for the designers
+  * transfer projects more quickly
+  * [image]()
+   
+   
 
 ## Part B: possible future technology
 * Idea
