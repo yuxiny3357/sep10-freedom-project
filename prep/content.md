@@ -36,20 +36,23 @@ Topic: **Graphic Design**
   *  a digital drawing tablet that makes vibration or sound feedback
   *  mimics the feeling on paper
   *  helps artist get more of a traditional feeling
-  * make it easer for a artist to control stoks and pressure
-  * [image]()
+  * make it easer for a artist to control stokes and pressure
+  * Creates a bridge for traditional art and digital making a designer more comfortable 
+  * [image](https://encrypted-tbn0.gstatic.com/imgitalages?q=tbn:ANd9GcRAB60nzqDUc0C7pSqlEE_zFLEl4JXPLaKkbA&s)
 * Device 2: Flatbed scanner
   * A glass surface used to scan and digitize anything on paper
   * preserves details and textures of the original artwork
   * used to create digital copies of printed designs
   * helps designers combine traditional and digital tecniques
-  * [image]()
+  * keeps artwork as high quality
+  * [image](https://intarch.ac.uk/journal/issue55/10/images/figure2.jpg)
 * Device 3: External SSD
   * Portable storage device
   * stores large designs files
   * expand storage for the designers
   * transfer projects more quickly
-  * [image]()
+  * loads and saves larger files faster 
+  * [image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2SXCXIx8acZR2uRbqze7MM6d2ciFdm11liQ&s)
    
    
 
