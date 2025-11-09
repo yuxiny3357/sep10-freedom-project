@@ -1,6 +1,9 @@
 # Graphic Design Technology
 ##### 11/03/25
 
+
+Currently, i'm in the research stage of the engineering design process have many websites and articles about graphic design tools and devices that help the designers. I found a lot of information about software and hardware tools thats use in design. While researching graphic design I learned that designers used both software and hardware to bring ideas to life popular programs like Photoshop illustrator and Canva help create digital art and layout. They also use tool such as drawing tablets and styluses to improve accuracy and creativity. I found these websites by using phrases such as two that's used in graphic design or apps that help graphic designers. I vistied design blogs or websties to gather and compare infotmation.
+
 ## Apps 
 Graphic designers use different apps to help them create,edit,and improve their designs. These apps i've dound makes design process easier,more creative,and efficient by offering many tools and features for photo editing,layout and digital artwork.
 
