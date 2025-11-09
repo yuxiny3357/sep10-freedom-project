@@ -21,8 +21,14 @@ Graphic designers use different apps to help them create,edit,and improve their 
    * [PicMonkey](https://www.picmonkey.com/)
    * [Visme](https://www.visme.co/)
    * [GIMP](https://www.gimp.org/)
- 
 
+ ## Skills
+ * Decison making: I practice choosing incredible information by comparing the differences from the evidence and reliability to other websites.
+ * Time management: researching took a lot of my time to find apps and websites that weren't well known. I had to set priorities and meet deadline for my other classes on time. This skill help me balance multiple task and to stay organized.
+
+   ## Next Steps
+   i'm currently on the second stage of the engineering design process which involves researching current tools in devices that use in graphic design. I want to learn how these tools are created and how they help designers improve their work and create creativity. I'm excited to develop the project to explore technology that supports designers and that help make design processes more efficient and innovative.
 [Previous](entry01.md) | [Next](entry03.md)
+
  
 [Home](../README.md)
