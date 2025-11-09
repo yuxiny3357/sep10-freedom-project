@@ -17,7 +17,10 @@ Graphic designers use different apps to help them create,edit,and improve their 
    ## sources
    * [Flatbed scanner](https://www.globalvision.co/glossary/flatbed-scanner)
    * [what is a graphic tablet use for?](https://www.iskn.co/discover/71086826/how-does-a-graphic-tablet-work)
-   * [
+   * [External SSD: All You need to know](https://platinumdatarecovery.com/blog/external-ssd)
+   * [PicMonkey](https://www.picmonkey.com/)
+   * [Visme](https://www.visme.co/)
+   * [GIMP](https://www.gimp.org/)
  
 
 [Previous](entry01.md) | [Next](entry03.md)
