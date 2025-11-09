@@ -14,9 +14,12 @@ Graphic designers use different apps to help them create,edit,and improve their 
  * Flatbed Scanner: Its a glass surface thats used to scan and digitize anything on paper. It preserves the details and textures of the original artwork, allowing designers to create high quality digital copies of printed designs. This device he,ps combine traditional and digital techniques,keeping the artwork clear and detailed.
  * External SSD: Its a portable storage device used to store large design files. It helps designers expand their storage capacity,transfer projects quickly,ans work efficiently by loading and saving large files faster. This makes it an essential tool for managing design projects on to go.
 
-   ##
+   ## sources
+   * [Flatbed scanner](https://www.globalvision.co/glossary/flatbed-scanner)
+   * [what is a graphic tablet use for?](https://www.iskn.co/discover/71086826/how-does-a-graphic-tablet-work)
+   * [
  
 
 [Previous](entry01.md) | [Next](entry03.md)
-
+ 
 [Home](../README.md)
