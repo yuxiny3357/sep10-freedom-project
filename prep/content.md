@@ -2,10 +2,15 @@
 Topic: **Graphic Design**
 
 ## Overview/Introduction/Context
-* Text
-* Text
+* Graphic design has been around for thousands of years, even being trace back to ancient eygpt where they use hieroglpyhics. 
+* So how did a transantion happen with the tools from ancient times to present days?
+* This site will explore the old tools, present and possibliity of the future. 
 
 ## Part A: existing technology
+### Ancient Tools 
+ * Clay tablets: use by  
+
+### Present Tools 
 * App 1:PicMonkey 
   * its a designing app and also a website
   * its simliar to canva
@@ -15,7 +20,7 @@ Topic: **Graphic Design**
    * [PicMonkey logo ](https://play-lh.googleusercontent.com/vRZqnRc4vTLgoEWTsuuq_lLeWj1QQ0_ofON7JDVOMGnL2n2WgA6GztNUbldDhIQta08G)
    * [Website link](https://www.picmonkey.com/)
 * App 2: GIMP
-  *  has advanced tools like layers,mask,filters and plug in similar ti photoshop
+  *  has advanced tools like layers,mask,filters and plug in similar to photoshop
   *  requires basic hardware
   *  works on windows and macOS
   *  popular among photographers and digital artists
