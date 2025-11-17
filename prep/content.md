@@ -8,7 +8,14 @@ Topic: **Graphic Design**
 
 ## Part A: existing technology
 ### Ancient Tools 
- * Clay tablets: use by  
+ * Clay Tablets:
+   * made from soft clay
+   * people wrote on them using a sharp stylis
+   * used for keeping records,messages, and laws
+ * papyrus scrolls:
+    * early type of paper made from the papyrus plant
+    * written on with ink and reed pens
+    * used for letters,books and important documents
 
 ### Present Tools 
 * App 1:PicMonkey 
@@ -36,7 +43,17 @@ Topic: **Graphic Design**
   * [Visme logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS27EfwOaJQnE794rtIq0XNQ43d8PjMDsq42w&s)
   * [website link](https://www.visme.co/)       
    
- Hardeware/device
+ ## Hardeware/device
+ ### Old Devices:
+ * Lightbox:
+   * a flat box with a bright light inside
+   * artists place paper on top to trace designs
+   * used for animation,lettering,and clean line work
+ * Drafting Table:
+    * large angled table for drawing
+    * helps artists sketch layouts and designs accurately
+    * used before digital drawing tablets
+ ### Present Devices:
 * Device 1: Sound tablet
   *  a digital drawing tablet that makes vibration or sound feedback
   *  mimics the feeling on paper
