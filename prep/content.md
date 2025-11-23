@@ -24,7 +24,7 @@ Topic: **Graphic Design**
   * helps their users but having video tutorial on editing and have a page dedicated to graphic design
   * easy to use
   * also has many features from photo editing to graphic designing 
-   * [PicMonkey logo ](https://play-lh.googleusercontent.com/vRZqnRc4vTLgoEWTsuuq_lLeWj1QQ0_ofON7JDVOMGnL2n2WgA6GztNUbldDhIQta08G)
+   * ![PicMonkey logo ](https://play-lh.googleusercontent.com/vRZqnRc4vTLgoEWTsuuq_lLeWj1QQ0_ofON7JDVOMGnL2n2WgA6GztNUbldDhIQta08G)
    * [Website link](https://www.picmonkey.com/)
 * App 2: GIMP
   *  has advanced tools like layers,mask,filters and plug in similar to photoshop
@@ -32,7 +32,7 @@ Topic: **Graphic Design**
   *  works on windows and macOS
   *  popular among photographers and digital artists
   *  free to use
-  *  [GIMP logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWtsL0ydkwYD7ehrJ9rGCvED7QnmHQbshFSA&s)
+  *  ![GIMP logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWtsL0ydkwYD7ehrJ9rGCvED7QnmHQbshFSA&s)
   *  [website link](https://www.gimp.org/)
 * App 3: Visme
   * online design and presentation tool
@@ -40,7 +40,7 @@ Topic: **Graphic Design**
   * fully cloud based
   * offers templates,drag and drop design tools and collaboation features for teams.
   * works on any device with a web browser
-  * [Visme logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS27EfwOaJQnE794rtIq0XNQ43d8PjMDsq42w&s)
+  * ![Visme Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS27EfwOaJQnE794rtIq0XNQ43d8PjMDsq42w&s)
   * [website link](https://www.visme.co/)       
    
  ## Hardeware/device
@@ -60,21 +60,21 @@ Topic: **Graphic Design**
   *  helps artist get more of a traditional feeling
   * make it easer for a artist to control stokes and pressure
   * Creates a bridge for traditional art and digital making a designer more comfortable 
-  * [image](https://encrypted-tbn0.gstatic.com/imgitalages?q=tbn:ANd9GcRAB60nzqDUc0C7pSqlEE_zFLEl4JXPLaKkbA&s)
+  * ![](https://encrypted-tbn0.gstatic.com/imgitalages?q=tbn:ANd9GcRAB60nzqDUc0C7pSqlEE_zFLEl4JXPLaKkbA&s)
 * Device 2: Flatbed scanner
   * A glass surface used to scan and digitize anything on paper
   * preserves details and textures of the original artwork
   * used to create digital copies of printed designs
   * helps designers combine traditional and digital tecniques
   * keeps artwork as high quality
-  * [image](https://intarch.ac.uk/journal/issue55/10/images/figure2.jpg)
+  * ![](https://intarch.ac.uk/journal/issue55/10/images/figure2.jpg)
 * Device 3: External SSD
   * Portable storage device
   * stores large designs files
   * expand storage for the designers
   * transfer projects more quickly
   * loads and saves larger files faster 
-  * [image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2SXCXIx8acZR2uRbqze7MM6d2ciFdm11liQ&s)
+  * ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2SXCXIx8acZR2uRbqze7MM6d2ciFdm11liQ&s)
    
    
 
@@ -86,14 +86,14 @@ Topic: **Graphic Design**
    * Simulate red materials like water color ,charcoal or oil pastel
    * Generate material such as metal ,fabric or wool
    * Replaces keyboards and mouse with a smart glove
-   *  [image](https://github.com/yuxiny3357/sep10-freedom-project/blob/0f24737292f8eb1df417b7224c2a865c6fa25933/canvas.png) 
+   *  ![](https://github.com/yuxiny3357/sep10-freedom-project/blob/0f24737292f8eb1df417b7224c2a865c6fa25933/canvas.png) 
 
 * Dream printer
    * Sync with design programs instantly to print 
    * Can print anything you want 
    * Print invisible ink that can be seen under UV light or blue light
    *  use less ink than other printers
-   *  [image](https://github.com/yuxiny3357/sep10-freedom-project/blob/37b1eea2fd2ac96c0d17216350207e6289261502/printer.jpg) 
+   *  ![](https://github.com/yuxiny3357/sep10-freedom-project/blob/37b1eea2fd2ac96c0d17216350207e6289261502/printer.jpg) 
 
 
 
