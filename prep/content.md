@@ -86,7 +86,7 @@ Topic: **Graphic Design**
    * Simulate red materials like water color ,charcoal or oil pastel
    * Generate material such as metal ,fabric or wool
    * Replaces keyboards and mouse with a smart glove
-   *  [image](canvas.png) 
+   *  [image](https://github.com/yuxiny3357/sep10-freedom-project/blob/0f24737292f8eb1df417b7224c2a865c6fa25933/canvas.png) 
 
 * Dream printer
    * Sync with design programs instantly to print 
