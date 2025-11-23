@@ -79,5 +79,19 @@ Topic: **Graphic Design**
    
 
 ## Part B: possible future technology
-* Idea
-  * Detail
+* Holographic canvas
+  * Can project 3D versions of what you draw on the canvas 
+  * Can also scan already drawn things and projects it to 3D
+  * Fixes your drawing proportions automatically
+  * Simulate red materials like water color ,charcoal or oil pastel
+  * Generate material such as metal ,fabric or wool
+  * Replaces keyboards and mouse with a smart glove 
+
+* Dream printer
+  * Sync with design programs instantly to print 
+  * Can print anything you want 
+  * Print invisible ink that can be seen under UV light or blue light
+  * use less ink than other printers
+
+
+
