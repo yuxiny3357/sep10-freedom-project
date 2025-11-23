@@ -93,7 +93,7 @@ Topic: **Graphic Design**
    * Can print anything you want 
    * Print invisible ink that can be seen under UV light or blue light
    *  use less ink than other printers
-   *  [image](printer.jpg) 
+   *  [image](https://github.com/yuxiny3357/sep10-freedom-project/blob/37b1eea2fd2ac96c0d17216350207e6289261502/printer.jpg) 
 
 
 
