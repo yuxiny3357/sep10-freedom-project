@@ -93,7 +93,7 @@ Topic: **Graphic Design**
    * Can print anything you want 
    * Print invisible ink that can be seen under UV light or blue light
    *  use less ink than other printers
-   *  [image](printer.jgp) 
+   *  [image](printer.jpg) 
 
 
 
