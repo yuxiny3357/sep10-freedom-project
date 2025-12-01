@@ -1,7 +1,9 @@
 # Entry 3
-##### X/X/XX
+##### 12/1/25
 
-Text
+## Comtext 
+
+I brainstorm part B by looking for ideas
 
 [Previous](entry02.md) | [Next](entry04.md)
 
