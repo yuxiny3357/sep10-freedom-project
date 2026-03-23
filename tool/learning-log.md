@@ -6,10 +6,14 @@
 
 ### 3/16/26:
 * [A-frame school](https://aframe.io/aframe-school/#/)
-    * learnig what a material compnents 
+    * learnig what a material compnents
+*[ youtube video](https://youtu.be/XFv55TajSAg?si=OPH0Rs8n21gdkFyH)
 
-### X/X/XX:
-* Text
+### 3/22/26:
+ *  I started experimenting with basic A-Frame code to make simple 3D objects like boxes,spheres, and cylinders
+ *  Played with colors and shapes positions
+ * learned to created more complex shapes with basic shapes
+ * played around with the starter code
 
 
 <!--
