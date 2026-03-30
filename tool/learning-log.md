@@ -15,8 +15,16 @@
  * learned to created more complex shapes with basic shapes
  * played around with the starter code
 
+### 3/23/26:
+* [ Aframe ](https://aframe.io/docs/1.7.0/guides/building-a-360-image-gallery.html)
+     * i try experimenting with the 360 image gallery
+     * it was confusing with the new codes
 
-<!--
+ ### 3/29/26:
+ * i tried to create a 360 image gallery instead of just using basic shapes
+ * it ead a little confusing at first
+ * when i test it using http-server i couldn't find the shape i didn't first. After moving the screen around i could see my shapes properly.
+ <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
 * Challenges, a-ha moments, etc
