@@ -24,6 +24,9 @@
  * i tried to create a 360 image gallery instead of just using basic shapes
  * it ead a little confusing at first
  * when i test it using http-server i couldn't find the shape i didn't first. After moving the screen around i could see my shapes properly.
+
+ ### 3/30/26:
+ * 
  <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
