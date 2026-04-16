@@ -29,13 +29,16 @@
  *
 
  ### 4/15/26
-Plan 
+Plan
  * Day 1:
 Keep practicing on making different things using basic shapes such as making a stickman or other non basic shapes
 Day 2:
 Learn and try different lighting in Aframe to make my plan B tools look the way i want it, like making it glow like when i drew out the tool
 Day 3:
 If I’m not struggling to figure out the lighting, I'll learn how to animate those shapes and put it all together to make my project seem more alive
+
+### 4/16/26
+* 
  <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
