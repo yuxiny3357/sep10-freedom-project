@@ -38,6 +38,7 @@ Day 3:
 If I’m not struggling to figure out the lighting, I'll learn how to animate those shapes and put it all together to make my project seem more alive
 
 ### 4/16/26
+* [used this to learn about the lighting](https://aframe.io/docs/1.7.0/components/light.html#configuring_shadows_shadowcameraleft)
 * 
  <!--
 * Links you used today (websites, videos, etc)
