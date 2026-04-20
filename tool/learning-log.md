@@ -41,6 +41,10 @@ If I’m not struggling to figure out the lighting, I'll learn how to animate th
 * [used this to learn about the lighting](https://aframe.io/docs/1.7.0/components/light.html#configuring_shadows_shadowcameraleft)
 * I tired to do the ambient lighting
 * At first it was all black but then after fixing the directions and postions it looks better
+
+### 4/17/26
+* i played around with the lighting
+* i tried the other lightig but it didn't work
  <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
