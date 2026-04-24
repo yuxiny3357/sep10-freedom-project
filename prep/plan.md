@@ -13,6 +13,7 @@
 
 ## Fonts
 * [Gluten](https://fonts.google.com/share?selection.family=Gluten:wght@100..900L)
+* [Gloock](https://fonts.google.com/share?selection.family=Gloock)
 
 ## Timeline
 
