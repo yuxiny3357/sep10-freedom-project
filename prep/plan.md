@@ -16,6 +16,13 @@
 * [Gloock](https://fonts.google.com/share?selection.family=Gloock)
 
 ## Timeline
+* 4/24: maybe start the website
+* weekend:overview & part A
+* 4/27: part b
+* 4/28: color shceme/ css
+* 4/29: update parts A/B to use card component
+* 4/30: contact/footer
+* Weekend: add fullscreen intro images to parts A/B
 
 #### MVP
 
