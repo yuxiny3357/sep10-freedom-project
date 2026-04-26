@@ -12,9 +12,24 @@ I used A-Frame website and youtube videos to research and learn how make differe
 * [ Aframe 360 image ](https://aframe.io/docs/1.7.0/guides/building-a-360-image-gallery.html)
 * [Aframe lighting](https://aframe.io/docs/1.7.0/components/light.html#configuring_shadows_shadowcameraleft)
 
-  ## Skills
+  
+## Engineering Design Process
 
-   ## EDP
+ At this point, I am focusing on planning and designing how my website will look. I am deciding how to organize each section, what the layout should be, where images and text will go, and how users will move through the pages. I am also thinking about the overall design style so the website is clear, creative, and easy to understand. Also including what I learned about using my tool on my own This step helps me turn my ideas into a structured website plan before I start coding it. 
+
+## Skills
+
+For this project, I have improved skills such as researching and creativity, and I am also beginning to build my coding skills.
+
+* Research skills: I improved my research skills by looking up information about my tool A-frame.
+
+* Thinking creatively: I learned how to think creatively by taking what I already knew about shapes and making them to look like other non shapes such as ice cream or stick man
+
+* Learning skills: I had to learn my tool on my own without my teacher telling me how to use my tools. He gave us tips on be brave to play around with the code to see what changes will happen. 
+## Next Steps
+
+My next step is to build my website based on my plan. I will use my layout ideas to begin coding the pages and organizing my content. I will include my research, my inventions, and explanations of how they work. I also want to make sure the website is easy to navigate and visually appealing. This step is important because it turns my design ideas into a real, interactive website that presents my project clearly.
+
 
 [Previous](entry04.md) | [Next](entry06.md)
 
