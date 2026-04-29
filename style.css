@@ -1,0 +1,12 @@
+.navbar {
+  background-color: #C97C5D;
+  border: none;
+}
+
+.navbar a {
+  color: #EEE2DF !important;
+}
+
+.navbar.scrolled {
+  background: #C97C5D !important;
+}
