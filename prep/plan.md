@@ -1,7 +1,7 @@
 # Plan
 
 ## Wireframes
-* [Mobile](content.md )
+* [Mobile](../content.md )
 * [Desktop]()
 
 ## Colors
