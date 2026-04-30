@@ -11,12 +11,23 @@
   background: #C2D8B9 !important;
 }
 
-.title{
-    font-family: Gluten;
+h1{
+  font-family: Gluten;
     font-size: 60px;
+ }
+
+.sub-title{
+    font-family: Gluten;
+    font-size: 45px;
 
 }
+
 body {
    font-family: Gloock, cursive;
   background-color: #FFFCF7`;
+}
+
+.smaller-title{
+    font-family: Gluten;
+    font-size: 35px;
 }
