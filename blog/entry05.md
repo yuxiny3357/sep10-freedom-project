@@ -1,6 +1,6 @@
 # Entry 5
 ##### 4/20/26
-<<<<<<< HEAD
+
 
 ## Context
 During the past few weeks we were learning how to use our tools, my tool was aframe. I tinker with it learning how to make shapes using the shapes. I also figure out how to do the lighting and explore how to make 360 images.
@@ -39,7 +39,7 @@ Starter code for lighting
 </a-light>
     </a-scene>
 ```
-=======
+
 
 ## Context
 Over the past few weeks, we have been learning how to use different digital tools, and I choose my tool as A-Frame. At first, it was a bit challenging to understand how everythingg worked, but as I spent more time experimenting, I became more comfortable with it. I practiced creating different shapes like boxes, spheres, and cylinders, and learned how to adjust their size, position, and rotation within a scene. I also explored how lighting works and how changing the brightness, color, and placement of lights can affect the overall look and mood of a project. In addition, I learned how to use 360 degree images to create more immersive environments where users can look around in all directions, making the experience feel more interactive. Overall, by experimenting and practicing with A-Frame, I was able to improve my understanding of how to build and design simple virtual reality scenes.
@@ -70,7 +70,7 @@ For this project, I have improved skills such as researching and creativity, and
 
 My next step is to build my website based on my plan. I will use my layout ideas to begin coding the pages and organizing my content. I will include my research, my inventions, and explanations of how they work. I also want to make sure the website is easy to navigate and visually appealing. This step is important because it turns my design ideas into a real, interactive website that presents my project clearly.
 
->>>>>>> b9c837c15afeb75eb5f235900b02b6c9f6aaa93c
+
 
 [Previous](entry04.md) | [Next](entry06.md)
 
