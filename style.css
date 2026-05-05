@@ -129,3 +129,24 @@ img{
 .center{
   text-alignment: center;
 }
+
+    /* section spacing */
+#partA{
+    margin-top:80px;
+}
+
+/* sub headings */
+.sub-title{
+    font-size:2.5rem;
+    color:#0f3d91;   /* deeper blue */
+    margin-bottom:30px;
+    font-weight:bold;
+}
+
+
+.card-custom h4{
+    font-size:1.6rem;
+    color:#123a7a;   /* darker blue */
+    font-weight:bold;
+    margin-bottom:15px;
+}
