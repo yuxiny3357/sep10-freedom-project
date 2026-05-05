@@ -37,7 +37,7 @@
 
 
 
-
+ 
 
 <!-- DO NOT USE THIS YET
 
@@ -45,7 +45,7 @@
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
-|  |  |  |
+| Emily | I really like how you made your borders round. I love how you put your aframe under yoout text and inside that border.  | You should try to add margin around the exisiting technology in part A to make it better to look at. |
 |  |  |  |
 |  |  |  |
 |  |  |  |
