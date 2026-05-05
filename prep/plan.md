@@ -47,7 +47,7 @@
 | -------- | ------- | ------- |
 | Emily | I really like how you made your borders round. I love how you put your aframe under yoout text and inside that border.  | You should try to add margin around the exisiting technology in part A to make it better to look at. |
 | Jia | I like how you demonstrated the holographic using a ducky, it brings the website more life than it already has. Another thing I like is your color scheme, it is appealing to the eye. | I would make the section heading bigger and possibly change it to a heavier color. |
-|  |  |  |
+| Ethan | I like that the aframe was put into a text box, great use of css and boostrap to make the navbar and appearance.  | The navbar link labels don't match headers for each part |
 |  |  |  |
 |  |  |  |
 
