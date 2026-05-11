@@ -10,6 +10,47 @@ During the past few weeks, i have been working on creating my own website for my
 I [bootstrap](https://getbootstrap.com/) to help make a navbar for my website. It made mt website more easy to navigate and move around. I also used [google fonts}(https://fonts.google.com/) to add more personality to my projects, so the fonts wouldn't all look the same. 
 
 ## Examples 
+Starter Code
+
+
+
+At first, my navbar looked very plain and simple. I experimented with colors, spacing, and transparency to improve the design.
+
+Updated Version
+
+
+
+This made the navbar look more modern and futuristic while matching the overall website theme.
+
+## Engineering Design Process
+
+Right now, I am focusing on improving and organizing my website design. I am planning where each section should go, how users will navigate through the site, and how to make the layout visually appealing. I am also adding more detail to my future technology section and improving the styling of my cards, fonts, and images.
+
+I am continuing to experiment with A-Frame by creating hologram-style animations and testing different lighting effects. I also plan to improve my responsive design so the website works better on phones and tablets. This stage is important because it helps turn my ideas into a polished and interactive website.
+
+Skills
+
+Coding Skills
+
+I improved my coding skills by learning how to use HTML, CSS, Bootstrap, and A-Frame to create and style webpages.
+
+Creativity
+
+I used creativity to design futuristic technology ideas and create a theme that matched the overall concept of graphic design and innovation.
+
+Problem Solving
+
+When parts of my code did not work correctly, I experimented with different solutions and tested changes until I fixed the problem.
+
+Research Skills
+
+I researched tutorials, documentation, and examples online to learn how to create layouts, animations, and 3D scenes.
+
+## Next Steps
+
+My next step is to continue improving the design and functionality of my website. I want to add more animations, improve transitions between sections, and make the website feel smoother and more interactive. I also plan to add more detail to the future technology ideas and continue practicing with A-Frame to create more advanced 3D elements.
+
+Finally, I will review my website carefully, fix any remaining issues, and prepare to present my project clearly and confidently.
 
 [Previous](entry04.md) | [Next](entry06.md)
 
