@@ -6,8 +6,8 @@
 Over the past few weeks, I worked on my Graphic Design and Future Technology website and presented it to my classmates and visitors during the Expo. My website focused on current graphic design technologies and future innovations that could change how designers create digital content. Presenting my project gave me the opportunity to explain my ideas, demonstrate my website, and receive feedback from others.
 
 
-## Takeaways from My In-Class Presentation
-One takeaway from my in-class presentation was the importance of preparation. Practicing beforehand helped me explain my project more clearly and confidently. I learned that when I know my content well, I can focus more on engaging with the audience instead of worrying about what to say next.
+## Takeaways from My In Class Presentation
+One takeaway from my in class presentation was the importance of preparation. Practicing beforehand helped me explain my project more clearly and confidently. I learned that when I know my content well, I can focus more on engaging with the audience instead of worrying about what to say next.
 
 Another takeaway was that visual design matters when presenting a website. My classmates were more interested when I demonstrated interactive elements, images, and animations. This showed me that a strong visual presentation can help communicate ideas more effectively.
 
@@ -44,7 +44,7 @@ Public Speaking: I became more confident speaking in front of others and explain
 
 Coding: I continued developing my HTML, CSS, Bootstrap, and A-Frame skills while building and refining my website.
 
-Problem Solving: I used problem-solving skills when fixing design issues and responding to questions about my project.
+Problem Solving: I used problem solving skills when fixing design issues and responding to questions about my project.
 
 Professionalism: During both my presentation and the Expo, I remained respectful, prepared, and engaged.
 
