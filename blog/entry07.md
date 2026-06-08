@@ -23,7 +23,10 @@ The Expo also helped me improve my communication skills. Since I spoke with many
 
 
 ## Sources
-[My Presentation Plan] (prep/presentation.md)  
+I planned and built my Graphic Design and Future Technology website. I started by organizing my ideas and deciding how each part of the website would look and connect. After planning, I created and improved my website by adding design features and testing different layouts.
+
+I also presented my project to my classmates and visitors during the Expo. During the presentation, I explained my ideas, showed my website, and talked about future technology in graphic design. I also received feedback that helped me understand what I can improve.
+[My website Plan](../prep/plan.md)  
 [My Presentation Slides](https://docs.google.com/presentation/d/1TsyV-fM6UaounoZ0Sc_u7cvnByXr7O0g17GRITH7T10/edit?usp=sharing)
 
 
